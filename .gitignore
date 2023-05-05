@@ -9,6 +9,7 @@ media
 # DRF #
 migrations/
 __init__.py
+
 ## Poetry ##
 poetry.lock
 pyproject.toml
